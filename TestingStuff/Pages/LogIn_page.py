@@ -1,4 +1,4 @@
-from Stuff.Pages.CommonStuff import CommonStuff
+from TestingStuff.Pages.CommonStuff import CommonStuff
 from selenium.webdriver.common.by import By
 from configReader import ConfigReader
 

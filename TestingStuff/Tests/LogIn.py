@@ -1,7 +1,7 @@
 import pytest
 from selenium import webdriver
 from configReader import ConfigReader
-from Stuff.Pages.LogIn_page import Login
+from TestingStuff.Pages.LogIn_page import Login
 
 
 @pytest.fixture(scope="class")
